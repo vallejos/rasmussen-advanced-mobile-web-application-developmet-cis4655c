@@ -1,0 +1,33 @@
+
+.top-logo {
+    padding: 15px 0;
+    height: 90px;
+    width: 100%
+}
+
+.top-banner {
+    padding: 15px 0;
+    height: 90px;
+    width: 100%
+}
+
+.thumb-small {
+    padding: 10px;
+    height: 140px;
+    width: 100%;
+}
+
+.thumb-big {
+    padding: 10px;
+    height: 250px;
+    width: 100%;
+}
+
+.social-logo {
+    height: 40px;
+}
+
+.social-bar {
+    text-align: right;
+    margin: 15px auto;
+}
